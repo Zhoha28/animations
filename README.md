@@ -67,7 +67,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- DEMOS -->
 ## DEMOS
 List of Animation demo
-1. <a href="https://zhoha28.github.io/animations/demo1">Biker guy illustration Animation </a>
+1. <a href="https://zhoha28.github.io/animations/demo1/">Biker guy illustration Animation </a>
 2. <a href="https://zhoha28.github.io/animations/demo2/"> Weird Cross-eyed alien animation </a>
 
 
