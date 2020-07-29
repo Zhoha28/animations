@@ -4,7 +4,7 @@
     This repository contains all the svg animations that I developed using FIGMA and Pure CSS. 
     <br />
     <br />
-    <a href="https://zhoha28.github.io/animations/">View Demo</a>
+    <a href="#demos">View Demo</a>
     ·
     <a href="https://github.com/Zhoha28/animations/issues">Report Bug</a>
   
@@ -63,6 +63,12 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+<!-- DEMOS -->
+## DEMOS
+List of Animation demo
+1. <a href="https://zhoha28.github.io/animations/demo1">Biker guy illustration Animation </a>
+2. <a href="https://zhoha28.github.io/animations/demo2/"> Weird Cross-eyed alien animation </a>
 
 
 
